@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Kunj Sangani
+title: Kunj Sangani | A blog theme for Microsoft 365
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
@@ -8,8 +8,8 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: sangani.kunj@gmail.com
+disqus_username: kunjbsangani
 show_hero: true
 menu:
   - title: Home
@@ -24,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: kunj-sangani
+facebook_username: kunj.sangani
+twitter_username: sanganikunj
+instagram_username: kunj_sangani
+linkedin_username: kunj-sangani
+medium_username: sangani.kunj
 
 
 # Posts Settings
@@ -56,7 +56,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
